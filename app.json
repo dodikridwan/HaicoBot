@@ -1,6 +1,6 @@
 {
-      "name": "Emiko Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "Haico Robot",
+      "description": "A Powerful  Telegram group management bot.",
       "keywords": [
          "telegram",
          "advance",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
+   "logo":    "https://telegra.ph/file/db2ffde4ae8bf3ed4ef45.jpg",  
+   "repository": "https://github.com/dodikridwan/https://github.com/dodikridwan/HaicoBot/",
    "addons": [
           {
          "options": {
