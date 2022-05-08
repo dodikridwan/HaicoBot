@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/db2ffde4ae8bf3ed4ef45.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> HAICO ROBOT </p></h4>
 
-<p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Haico Robot is a modular bot.</p>
 
 <p align="center">
 <a href="https://t.me/Aikarobot"> <img src="https://img.shields.io/badge/Emiko-Robot-blue?&logo=telegram" alt="Emiko on Telegram" /> </a><br>
@@ -23,7 +23,6 @@
 - Then change the deploy link bellow.
 - This step must be doing because mine link is violates the salesforce acceptable use.
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
 
 
 ```
@@ -45,8 +44,4 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 
 ## Credit 
 
-• [Sena](https://github.com/kennedy-ex)
-
-• [Arya](https://github.com/aryazakaria01)
-
-• [Kyy](https://github.com/zxcskyy)
+• [dik's](https://github.com/dodikridwan)
